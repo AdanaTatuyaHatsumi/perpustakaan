@@ -31,7 +31,7 @@ Sistem Informasi Perpustakaan berbasis web yang dibangun menggunakan **PHP Nativ
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/username/perpustakaan.git
+   git clone https://github.com/AdanaTatuyaHatsumi/perpustakaan.git
    ```
 
 2. Pindahkan ke folder:
@@ -70,7 +70,7 @@ Sistem Informasi Perpustakaan berbasis web yang dibangun menggunakan **PHP Nativ
 
 ## 📸 Screenshot
 
-(Tambahkan nanti biar makin keren di GitHub 🔥)
+..
 
 ---
 
