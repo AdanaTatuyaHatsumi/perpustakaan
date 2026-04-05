@@ -64,7 +64,8 @@ Sistem Informasi Perpustakaan berbasis web yang dibangun menggunakan **PHP Nativ
 (Sesuaikan dengan database)
 
 * Username: admin
-* Password: (cek di database / generate_password.php)
+* Password: admin123
+* Link Download SQL : https://bit.ly/perpustakaan-sql
 
 ---
 
