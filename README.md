@@ -70,7 +70,18 @@ Sistem Informasi Perpustakaan berbasis web yang dibangun menggunakan **PHP Nativ
 
 ## 📸 Screenshot
 
-..
+<p align="center">
+  <img src="img/1.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/2.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/3.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/4.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/5.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/6.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/7.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/8.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/9.png" alt="Wisatator Logo" width="400"/>
+   <img src="img/10.png" alt="Wisatator Logo" width="400"/>
+</p>
 
 ---
 
